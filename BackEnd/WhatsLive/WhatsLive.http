@@ -1,0 +1,6 @@
+@WhatsLive_HostAddress = http://localhost:5015
+
+GET {{WhatsLive_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
